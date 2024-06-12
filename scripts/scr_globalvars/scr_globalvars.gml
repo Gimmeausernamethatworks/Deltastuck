@@ -1,0 +1,1 @@
+global.control_type = 0;
